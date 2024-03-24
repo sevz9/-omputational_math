@@ -1,6 +1,6 @@
 Вычисления произведены для функции из учебника
 
-![alt text](/computational_math/hw1/Screenshot_1.png)
+![alt text](Screenshot_1.png)
 
 Я ожидаю, что коэффицент эффиктивности будет расти с размером сетки
 
